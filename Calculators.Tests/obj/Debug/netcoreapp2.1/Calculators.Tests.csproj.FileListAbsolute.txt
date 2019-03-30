@@ -1,0 +1,17 @@
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.Tests.deps.json
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.Tests.runtimeconfig.json
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.Tests.runtimeconfig.dev.json
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.Tests.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.Tests.pdb
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\bin\Debug\netcoreapp2.1\Calculators.pdb
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.csprojAssemblyReference.cache
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.csproj.CoreCompileInputs.cache
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.AssemblyInfoInputs.cache
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.AssemblyInfo.cs
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.csproj.CopyComplete
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.dll
+c:\Users\ksmol\Programming\unit-testing-calculator\calculator-unit-testing\Calculators.Tests\obj\Debug\netcoreapp2.1\Calculators.Tests.pdb
